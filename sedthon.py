@@ -591,10 +591,10 @@ async def _(event):
     end = datetime.datetime.now()
     ms = (end - start).microseconds / 1000
     await event.edit(f'''
- 𝐜𝐡𝐞𝐜𝐤𝐞𝐫 𝐬𝐨𝐮𝐫𝐜𝐞 @HLLaM
-𝐝𝐞𝐯 : @HLLAM 
-𝐜𝐡𝐚𝐧𝐧𝐞𝐥 : @H_P_K
-𝐫𝐞𝐥𝐞𝐚𝐬𝐞 : 1.9
+ 𝐜𝐡𝐞𝐜𝐤𝐞𝐫 𝐬𝐨𝐮𝐫𝐜𝐞 aLkHaL
+𝐝𝐞𝐯 : @V_1_B 
+𝐜𝐡𝐚𝐧𝐧𝐞𝐥 : @Y_O_P_Y
+𝐫𝐞𝐥𝐞𝐚𝐬𝐞 : 2.4
 
 ''')
 
